@@ -10,7 +10,7 @@
     "url_share_app": "",
     "startApp_splash": "false",
     "startApp_interstitial": "false",
-    "startApp_Native": "false",
+    "startApp_Native": "true",
     "startApp_Mrec": "false",
     "server_choice_to_downloader": "0",
     "server_choice_to_player": "",
