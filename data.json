@@ -13,7 +13,7 @@
     "startApp_Native": "true",
     "startApp_Mrec": "false",
     "server_choice_to_downloader": "0",
-    "server_choice_to_player": "",
+    "server_choice_to_player": "1",
     "url_new_version": "",
     "new_version_code": "1",
     "js_download": "if(window.location.origin == 'https://vidspeed.net') {var page_1 = $('a:contains(Normal quality)')[0];var page_2 = $('a:contains(Direct Download Link)')[0];setTimeout(function() {if (typeof page_1 !== 'undefined') {page_1.click();}if (typeof page_2 !== 'undefined') {Android.download($('a:contains(Direct Download Link)').attr('href')); window.open('https://m_s.com','_self')}}, 2000);} else {var page_1 = $('video')[0];$('body')[0].click();setTimeout(function() {if (typeof page_1 !== 'undefined') {Android.download($('video').attr('src')); window.open('https://m_s.com','_self')}}, 2000);}"
