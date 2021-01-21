@@ -10,7 +10,7 @@
     "url_share_app": "https://ms-tr-series.blogspot.com/p/ertugrul-apk-download.html",
     "startApp_splash": "false",
     "startApp_interstitial": "false",
-    "startApp_Native": "false",
+    "startApp_Native": "true",
     "startApp_Mrec": "true",
     "startApp_Banner": "false",
     "server_choice_to_downloader": "2",
