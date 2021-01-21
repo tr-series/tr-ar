@@ -11,7 +11,7 @@
     "startApp_splash": "false",
     "startApp_interstitial": "false",
     "startApp_Native": "false",
-    "startApp_Mrec": "false",
+    "startApp_Mrec": "true",
     "startApp_Banner": "false",
     "server_choice_to_downloader": "2",
     "server_choice_to_player": "2",
