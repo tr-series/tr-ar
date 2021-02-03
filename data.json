@@ -9,7 +9,7 @@
     "url_more_my_apps": "https://play.google.com/store/apps/dev?id=4724872889017216554",
     "contain_interstitial": "",
     "startApp_interstitial": "false",
-    "startApp_Native": "false",
+    "startApp_Native": "true",
     "url_new_version": "",
     "new_version_code": "1",
     "choice_start_link": "1",
