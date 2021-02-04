@@ -2,7 +2,7 @@
   {
     "urls_series": [
       {
-        "url_series": "https://www.lodydfdfnet.cam/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D9%87%D9%86%D8%AF%D9%8A%D9%87/"
+        "url_series": "https://www.lodynet.cam/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D9%87%D9%86%D8%AF%D9%8A%D9%87/"
       },
       {
         "url_series": "https://www.lodynet.cam/category/%d8%a7%d9%84%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/"
@@ -18,7 +18,7 @@
     "url_share_app": "",
     "url_more_my_apps": "https://play.google.com/store/apps/dev?id=4724872889017216554",
     "contain_interstitial": "",
-    "startApp_interstitial": "false",
+    "startApp_interstitial": "true",
     "startApp_Native": "true",
     "url_new_version": "",
     "new_version_code": "1",
