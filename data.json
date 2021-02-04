@@ -1,6 +1,16 @@
 [
   {
-    "url_series": "https://www.lodynet.cam/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D9%87%D9%86%D8%AF%D9%8A%D9%87/",
+    "urls_series": [
+      {
+        "url_series": "https://www.lodynet.cam/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D9%87%D9%86%D8%AF%D9%8A%D9%87/"
+      },
+      {
+        "url_series": "https://www.lodynet.cam/category/%d8%a7%d9%84%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/"
+      },
+      {
+        "url_series": "https://www.lodynet.cam/turkish-series-2/"
+      }
+      ],
     "app_test": "false",
     "url_series_test": "",
     "url_privacy_policy": "https://ms-tr-series.blogspot.com/p/ertugrul-privacypolicy.html",
