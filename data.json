@@ -23,7 +23,7 @@
     "url_new_version": "",
     "new_version_code": "1",
     "choice_start_link": "1",
-    "dialog_ads_count": "0",
+    "dialog_ads_count": "1",
     "js_backPressed": "document.webkitExitFullscreen(); document.mozCancelFullscreen(); document.exitFullscreen();"
   }
 ]
