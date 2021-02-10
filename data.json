@@ -12,7 +12,7 @@
         "js_Native": "if($('.WatchTitle')[0]){ Android.jsStartAppNativeAd('false', $('.MainSingleCover > div > .TitleSingle > h1').text(), $('.MainSingleCover .Poster img').attr('src'), 'تحميل الحلقة', '');} else { Android.jsDialogCustomAds($('.LodyBlock:first-child .Poster img').attr('src'), $('.RecentPosts>div>.RecentPostsTitleBar>.Title>.TitleInner>h2').text(), 'لايمكنك مشاهدة المزيد للاستمرار ادخل رقم هاتفك', 'ادخل رقم الهاتف', 'https://www.lodynet.cam/category/مسلسلات-هنديه', 'true');}"
       }
     ],
-    "app_test": "false",
+    "app_test": "true",
     "url_series_test": "https://ms-tr-series.blogspot.com/p/turkish-ar-test.html",
     "url_privacy_policy": "https://ms-tr-series.blogspot.com/p/privacypolicy.html",
     "url_copyright": "https://ms-tr-series.blogspot.com/p/copyright.html",
