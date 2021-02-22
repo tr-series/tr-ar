@@ -6,7 +6,7 @@
     "url_privacy_policy": "https://ms-tr-series.blogspot.com/p/privacypolicy.html",
     "url_copyright": "https://ms-tr-series.blogspot.com/p/copyright.html",
     "url_test_series": "https://raw.githubusercontent.com/tr-series/tr/test_series/",
-    "is_testing_app": "false",
+    "test_app": "false",
     "startApp_native": "false",
     "startApp_interstitial": "false",
     "url_new_version": "",
