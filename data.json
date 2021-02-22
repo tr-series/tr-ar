@@ -1,0 +1,18 @@
+[
+  {
+    "url_slider": "https://raw.githubusercontent.com/tr-series/tr/slider/",
+    "url_series": "https://raw.githubusercontent.com/tr-series/tr/series/",
+    "url_share_app": "https://play.google.com/store/apps/details?id=com.ms_series.turkish_ar_1",
+    "url_privacy_policy": "https://ms-tr-series.blogspot.com/p/privacypolicy.html",
+    "url_copyright": "https://ms-tr-series.blogspot.com/p/copyright.html",
+    "url_test_series": "https://raw.githubusercontent.com/tr-series/tr/test_series/",
+    "is_testing_app": "false",
+    "adMob_testing": "true",
+    "adMob_full": "false",
+    "startApp_splash": "true",
+    "startApp_native": "false",
+    "startApp_interstitial": "true",
+    "url_new_version": "https://play.google.com/store/apps/details?id=com.ms_series.turkish_ar_1",
+    "new_version_code": "1"
+  }
+]
