@@ -1,18 +1,36 @@
 [
   {
-    "url_slider": "https://raw.githubusercontent.com/tr-series/tr/slider/",
-    "url_series": "https://raw.githubusercontent.com/tr-series/tr/series/",
-    "url_share_app": "https://play.google.com/store/apps/details?id=com.ms_series.turkish_ar_1",
-    "url_privacy_policy": "https://ms-tr-series.blogspot.com/p/privacypolicy.html",
-    "url_copyright": "https://ms-tr-series.blogspot.com/p/copyright.html",
-    "url_test_series": "https://raw.githubusercontent.com/tr-series/tr/test_series/",
-    "is_testing_app": "false",
-    "adMob_testing": "true",
-    "adMob_full": "false",
-    "startApp_splash": "true",
-    "startApp_native": "false",
-    "startApp_interstitial": "true",
-    "url_new_version": "https://play.google.com/store/apps/details?id=com.ms_series.turkish_ar_1",
-    "new_version_code": "1"
+    "category_title": "مسلسلات تركية",
+    "category": [
+      {
+        "series_title": "المؤسس عثمان",
+        "series_image": "https://archive.org/download/app_posters/z_alm2ss_3thman.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/z_alm2ss_3thman/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "اسطنبول الظالمة",
+        "series_image": "https://archive.org/download/app_posters/z_as6nbwl_alzalmt.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/z_as6nbwl_alzalmt/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      }
+    ]
+  },
+  {
+    "category_title": "مسلسلات تركية",
+    "category": [
+      {
+        "series_title": "بنات الشمس",
+        "series_image": "https://archive.org/download/app_posters/z_bnat_al4ms.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/z_bnat_al4ms/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      },
+      {
+        "series_title": "الخادمات",
+        "series_image": "https://archive.org/download/app_posters/z_al5admat.jpg",
+        "series_link": "https://raw.githubusercontent.com/tr-series/tr/z_al5admat/",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      }
+    ]
   }
 ]
