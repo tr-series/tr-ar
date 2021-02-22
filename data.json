@@ -19,7 +19,7 @@
     "url_Contact_us": "",
     "url_share_app": "https://play.google.com/store/apps/details?id=com.ms_series.indian_ar",
     "url_more_my_apps": "https://play.google.com/store/apps/dev?id=4724872889017216554",
-    "startApp_interstitial": "false",
+    "startApp_interstitial": "true",
     "url_new_version": "",
     "new_version_code": "1",
     "choice_start_link": "1",
