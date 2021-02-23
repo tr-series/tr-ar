@@ -14,7 +14,26 @@
     ],
     "server_player": [
       {
+        "server_title": "سيرفر 1",[
+  {
+    "video_title": "موسم 1 الحلقة 1",
+    "server_downloader": "https://archive.org/download/ms_series_er/er1.mp4/direct-download",
+    "server_player": [
+      {
         "server_title": "سيرفر 1",
+        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
+      }
+    ]
+  }
+]
         "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
       },
       {
