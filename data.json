@@ -9,6 +9,8 @@
     "test_app": "false",
     "startApp_native": "false",
     "startApp_interstitial": "false",
+    "ads_link": "",
+    "custom_interstitial_ad": "false",
     "url_new_version": "",
     "new_version_code": "1",
     "js_player": "",
