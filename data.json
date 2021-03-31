@@ -12,6 +12,7 @@
     "startApp_interstitial": "true",
     "ads_link": "https://smrturl.co/c3b595b",
     "custom_interstitial_ad": "true",
+    "custom_splash_ad": "true",
     "url_new_version": "",
     "new_version_code": "1",
     "js_player": "",
