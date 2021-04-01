@@ -14,6 +14,7 @@
     "custom_interstitial_ad": "true",
     "custom_splash_ad": "true",
     "ads_link": "https://download-video-link.blogspot.com/",
+    "file_extension": ".mp4",
     "url_new_version": "",
     "new_version_code": "1",
     "js_player": "",
