@@ -2,7 +2,7 @@
   {
     "url_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
     "url_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series/",
-    "test_app": "false",
+    "test_app": "true",
     "url_test_series": "https://raw.githubusercontent.com/tr-series/tr/test_series/",
     "url_more_my_apps": "",
     "url_privacy_policy": "https://ms-tr-series.blogspot.com/p/privacypolicy.html",
