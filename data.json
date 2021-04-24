@@ -1,469 +1,136 @@
 [
   {
-    "video_title": "موسم 1 الحلقة 1",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
+    "season_title": "موسم 1",
+    "season": [
       {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
+        "video_title": "موسم 1 الحلقة 1",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604209150639' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       },
       {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
+        "video_title": "موسم 1 الحلقة 2",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604209085103' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       },
       {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 2",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
+        "video_title": "موسم 1 الحلقة 3",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604208626351' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       },
       {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
+        "video_title": "موسم 1 الحلقة 4",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604208954031' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       },
       {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 3",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
+        "video_title": "موسم 1 الحلقة 5",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604208888495' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       },
       {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
+        "video_title": "موسم 1 الحلقة 6",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604209281711' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       },
       {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 4",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
+        "video_title": "موسم 1 الحلقة 7",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604208757423' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       },
       {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
+        "video_title": "موسم 1 الحلقة 8",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604209019567' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       },
       {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 5",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
+        "video_title": "موسم 1 الحلقة 9",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604208691887' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       },
       {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
+        "video_title": "موسم 1 الحلقة 10",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604208822959' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       },
       {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 6",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
+        "video_title": "موسم 1 الحلقة 11",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604209347247' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       },
       {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
+        "video_title": "موسم 1 الحلقة 12",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604208560815' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       },
       {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 7",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 8",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 9",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 10",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 11",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 12",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 13",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 14",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 15",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 16",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 17",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 18",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 1",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 1",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 1",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 1",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 1",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 1",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 1",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
-      }
-    ]
-  },
-  {
-    "video_title": "موسم 1 الحلقة 1",
-    "server_downloader": "https://vidspeed.net/2dxvheiwj9og.html",
-    "server_player": [
-      {
-        "server_title": "سيرفر 1",
-        "server_link": "https://archive.org/download/ms_series_er/er1.mp4/html5-video-embed"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "https://vidbem.com/embed-deluo4hk93dl.html"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "https://vidspeed.net/embed-2dxvheiwj9og.html"
+        "video_title": "موسم 1 الحلقة 13",
+        "video_download": "",
+        "server_translator": [
+          {
+            "server_title": "سيرفر 1",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/1604209216175' frameborder='0' allow='autoplay'></iframe>"
+          }
+        ]
       }
     ]
   }
