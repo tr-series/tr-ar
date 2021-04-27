@@ -1,236 +1,231 @@
 [
   {
-    "season_title": "موسم 1",
-    "season": [
+    "video_title": "موسم 1 الحلقة 1",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 1",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601376' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601376' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 2",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 2",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601377' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601377' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 3",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 3",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601378' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601378' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 4",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 4",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601379' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601379' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 5",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 5",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601380' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601380' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 6",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 6",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601381' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601381' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 7",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 7",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601382' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601382' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 8",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 8",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601383' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601383' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 9",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 9",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601384' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601384' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 10",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 10",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601385' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601385' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 11",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 11",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8602255' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8602255' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 12",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 12",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601387' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601387' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 13",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 13",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601388' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601388' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 14",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 14",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601389' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601389' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 15",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 15",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601390' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601390' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 16",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 16",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601391' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601391' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 17",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 17",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8602256' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8602256' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 18",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 18",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601393' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601393' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 19",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 19",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601394' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601394' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 20",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 20",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601395' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601395' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 21",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 21",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601396' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601396' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 22",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 22",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601397' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601397' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 23",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 23",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601398' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8601398' frameborder='0' allow='autoplay'></iframe>"
       }
     ]
   }
