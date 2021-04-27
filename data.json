@@ -8,7 +8,11 @@
         "server_translator": [
           {
             "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/251706935878' frameborder='0' allow='autoplay'></iframe>"
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/588244585099' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=7587827' frameborder='0' allow='autoplay'></iframe>"
           }
         ]
       },
@@ -18,7 +22,11 @@
         "server_translator": [
           {
             "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/268483824267' frameborder='0' allow='autoplay'></iframe>"
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/602336397963' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=7600629' frameborder='0' allow='autoplay'></iframe>"
           }
         ]
       },
@@ -28,7 +36,11 @@
         "server_translator": [
           {
             "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/272388262539' frameborder='0' allow='autoplay'></iframe>"
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/616706083467' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=7611758' frameborder='0' allow='autoplay'></iframe>"
           }
         ]
       },
@@ -38,7 +50,11 @@
         "server_translator": [
           {
             "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/275183897227' frameborder='0' allow='autoplay'></iframe>"
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/503075179103' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=7623414' frameborder='0' allow='autoplay'></iframe>"
           }
         ]
       },
@@ -48,7 +64,11 @@
         "server_translator": [
           {
             "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/278645115531' frameborder='0' allow='autoplay'></iframe>"
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/517048306271' frameborder='0' allow='autoplay'></iframe>"
+          },
+          {
+            "server_title": "سيرفر 2",
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=7634412' frameborder='0' allow='autoplay'></iframe>"
           }
         ]
       },
@@ -58,17 +78,7 @@
         "server_translator": [
           {
             "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/282397248139' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
-      },
-      {
-        "video_title": "موسم 1 الحلقة 7",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/289094240907' frameborder='0' allow='autoplay'></iframe>"
+            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/523914840671' frameborder='0' allow='autoplay'></iframe>"
           }
         ]
       }
