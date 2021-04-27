@@ -1,654 +1,649 @@
 [
   {
-    "season_title": "موسم 1",
-    "season": [
+    "video_title": "موسم 1 الحلقة 1",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
       {
-        "video_title": "موسم 1 الحلقة 1",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-9jxzlzy8c2zl.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8517834' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-9jxzlzy8c2zl.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-9jxzlzy8c2zl.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 2",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-yuszhjz3xhhc.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8532744' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-yuszhjz3xhhc.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8517834' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 3",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-qktqcfg8p309.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8526444' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-qktqcfg8p309.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-9jxzlzy8c2zl.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 2",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-yuszhjz3xhhc.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 4",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-r9vn615056j9.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8743025' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-r9vn615056j9.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8532744' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 5",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ladfrldbe1ru.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8541863' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ladfrldbe1ru.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-yuszhjz3xhhc.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 3",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-qktqcfg8p309.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 6",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-icfos9ds531j.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8550365' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-icfos9ds531j.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8526444' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 7",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-iq59spiftao2.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8743026' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-iq59spiftao2.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-qktqcfg8p309.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 4",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-r9vn615056j9.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 8",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-vqfmx8juw8sh.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8591779' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-vqfmx8juw8sh.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8743025' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 9",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-py1zhitx7x6x.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8591780' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-py1zhitx7x6x.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-r9vn615056j9.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 5",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ladfrldbe1ru.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 10",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-qo0lbmkam8uo.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8593538' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-qo0lbmkam8uo.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8541863' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 11",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-g2w9b9fnbx9j.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8604352' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-g2w9b9fnbx9j.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ladfrldbe1ru.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 6",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-icfos9ds531j.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 12",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ccqwiu9crjsm.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8650123' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ccqwiu9crjsm.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8550365' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 13",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-x6dfhdnmfy4l.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8610016' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-x6dfhdnmfy4l.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-icfos9ds531j.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 7",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-iq59spiftao2.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 14",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-j63l8211nday.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8618293' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-j63l8211nday.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8743026' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 15",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-tl24cl8hxkmp.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8650124' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-tl24cl8hxkmp.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-iq59spiftao2.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 8",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-vqfmx8juw8sh.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 16",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-d08critr8kyb.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8650125' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-d08critr8kyb.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8591779' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 17",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-q261bn33fael.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8641569' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-q261bn33fael.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-vqfmx8juw8sh.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 9",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-py1zhitx7x6x.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 18",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-pv25tglyns24.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8649774' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-pv25tglyns24.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8591780' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 19",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-hne75wtz8yhn.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8657573' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-hne75wtz8yhn.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-py1zhitx7x6x.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 10",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-qo0lbmkam8uo.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 20",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-yx480kmre48d.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8665346' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-yx480kmre48d.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8593538' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 21",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ft7fk85tu6yv.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8672313' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ft7fk85tu6yv.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-qo0lbmkam8uo.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 11",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-g2w9b9fnbx9j.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 22",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-v1t1xupyxltz.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8681729' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-v1t1xupyxltz.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8604352' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 23",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-dxhfxo4doo3l.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8700930' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-dxhfxo4doo3l.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-g2w9b9fnbx9j.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 12",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ccqwiu9crjsm.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 24",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-hr9xhhqlzqe3.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8696030' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-hr9xhhqlzqe3.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8650123' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 25",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-6rhp9jtk8fwh.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8702451' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-6rhp9jtk8fwh.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ccqwiu9crjsm.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 13",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-x6dfhdnmfy4l.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 26",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-k2hpzz4q5klu.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8709393' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-k2hpzz4q5klu.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8610016' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 27",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-by0ks4mrrcl9.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8716383' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-by0ks4mrrcl9.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-x6dfhdnmfy4l.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 14",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-j63l8211nday.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 28",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-aqzi87nu69gl.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8722678' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-aqzi87nu69gl.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8618293' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 29",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-x3yb5zf82rvy.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8741908' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 3",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-x3yb5zf82rvy.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-j63l8211nday.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 15",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-tl24cl8hxkmp.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 30",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-jon7mwsyt0xl.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8748882' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8650124' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 31",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8872354' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-uvjv3sfyd7cw.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-tl24cl8hxkmp.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 16",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-d08critr8kyb.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 32",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8872355' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-fw35v4sh5hga.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8650125' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 33",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8872356' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-04xo2v5nrurg.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-d08critr8kyb.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 17",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-q261bn33fael.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 34",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-z5odmoaxuuht.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8769971' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8641569' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 35",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8872357' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-jm3f958mja4z.html' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-q261bn33fael.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 18",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-pv25tglyns24.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 36",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-8f0inl97m82v.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8785527' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8649774' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 37",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-1r7i8d6eerqh.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8790680' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-pv25tglyns24.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 19",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-hne75wtz8yhn.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "video_title": "موسم 1 الحلقة 38",
-        "video_download": "",
-        "server_translator": [
-          {
-            "server_title": "سيرفر 1",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-synj24cn32kt.html' frameborder='0' allow='autoplay'></iframe>"
-          },
-          {
-            "server_title": "سيرفر 2",
-            "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8794998' frameborder='0' allow='autoplay'></iframe>"
-          }
-        ]
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8657573' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-hne75wtz8yhn.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 20",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-yx480kmre48d.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8665346' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-yx480kmre48d.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 21",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ft7fk85tu6yv.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8672313' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-ft7fk85tu6yv.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 22",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-v1t1xupyxltz.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8681729' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-v1t1xupyxltz.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 23",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-dxhfxo4doo3l.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8700930' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-dxhfxo4doo3l.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 24",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-hr9xhhqlzqe3.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8696030' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-hr9xhhqlzqe3.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 25",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-6rhp9jtk8fwh.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8702451' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-6rhp9jtk8fwh.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 26",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-k2hpzz4q5klu.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8709393' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-k2hpzz4q5klu.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 27",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-by0ks4mrrcl9.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8716383' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-by0ks4mrrcl9.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 28",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-aqzi87nu69gl.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8722678' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-aqzi87nu69gl.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 29",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-x3yb5zf82rvy.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8741908' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-x3yb5zf82rvy.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 30",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-jon7mwsyt0xl.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8748882' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 31",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8872354' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-uvjv3sfyd7cw.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 32",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8872355' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-fw35v4sh5hga.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 33",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8872356' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-04xo2v5nrurg.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 34",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-z5odmoaxuuht.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8769971' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 35",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8872357' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-jm3f958mja4z.html' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 36",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-8f0inl97m82v.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8785527' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 37",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-1r7i8d6eerqh.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8790680' frameborder='0' allow='autoplay'></iframe>"
+      }
+    ]
+  },
+  {
+    "video_title": "موسم 1 الحلقة 38",
+    "server_downloader": "http://developerbag.com",
+    "server_player": [
+      {
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-synj24cn32kt.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8794998' frameborder='0' allow='autoplay'></iframe>"
       }
     ]
   }
