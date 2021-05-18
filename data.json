@@ -5,16 +5,8 @@
     "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html",
     "server_player": [
       {
-        "server_title": "سيرفر 1",
-        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-w2rdjnnbcyf2.html' frameborder='0' allow='autoplay'></iframe>"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://extremenow.net/embed-w3uw0jwjun4c.html' frameborder='0' allow='autoplay'></iframe>"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8980705' frameborder='0' allow='autoplay'></iframe>"
+        "server_title": "",
+        "server_link": ""
       }
     ]
   },
@@ -24,20 +16,8 @@
     "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html",
     "server_player": [
       {
-        "server_title": "سيرفر 1",
-        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/2339426339443' frameborder='0' allow='autoplay'></iframe>"
-      },
-      {
-        "server_title": "سيرفر 2",
-        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-gslwmhmx1fa9.html' frameborder='0' allow='autoplay'></iframe>"
-      },
-      {
-        "server_title": "سيرفر 3",
-        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://extremenow.net/embed-6oz2151s5h4c.html' frameborder='0' allow='autoplay'></iframe>"
-      },
-      {
-        "server_title": "سيرفر 4",
-        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8980313' frameborder='0' allow='autoplay'></iframe>"
+        "server_title": "",
+        "server_link": ""
       }
     ]
   }
