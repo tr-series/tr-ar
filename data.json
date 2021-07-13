@@ -2,7 +2,7 @@
   {
     "url_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
     "url_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series/",
-    "test_app": "true",
+    "test_app": "false",
     "url_test_series": "https://raw.githubusercontent.com/tr-series/tr-ar/test_app_series/",
     "url_more_my_apps": "https://play.google.com/store/apps/dev?id=5907790824117940693",
     "url_privacy_policy": "https://ms-tr-series.blogspot.com/p/privacypolicy.html",
@@ -10,7 +10,7 @@
     "url_contact_us": "https://docs.google.com/forms/d/e/1FAIpQLSd75_YDetXFz1X3T05IahgYK_oPFGqfrkKNch9HAfLC-heioQ/viewform?usp=sf_link",
     "url_share_app": "https://play.google.com/store/apps/details?id=com.ms_series.turkish_ar_1",
     "startApp_native": "false",
-    "startApp_interstitial": "true",
+    "startApp_interstitial": "false",
     "custom_interstitial_ad": "false",
     "custom_splash_ad": "false",
     "ads_link": "",
